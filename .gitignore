@@ -15,6 +15,6 @@ hs_err_pid*
 target/
 
 # IntelliJ
-*.imp
+*.iml
 *.ipr
 *.iws
